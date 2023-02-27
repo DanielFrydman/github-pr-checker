@@ -1,3 +1,6 @@
+# Status
+Unfinished
+
 # Github PR Checker
 
 This project was created for anyone who can't review PR's in time.
